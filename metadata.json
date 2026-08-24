@@ -1,0 +1,8 @@
+{
+  "name": "Remix KantinKu",
+  "description": "Aplikasi pemesanan makanan dan minuman kantin sekolah SMANSARA tanpa antre, dengan menu lengkap 7 kantin, keranjang belanja, pembayaran digital, pelacakan pesanan, dan top up saldo siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
